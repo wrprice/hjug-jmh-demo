@@ -1,0 +1,5 @@
+.gradle/
+.nb-gradle
+.nb-gradle*
+**/private/cache/
+build/
