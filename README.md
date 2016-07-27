@@ -74,6 +74,8 @@ Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 You must credit the author and other contributors (if any) and include the URL of this source
 material in any copies or derivative works.
 
+<p style="text-align: center;">https://github.com/wrprice/hjug-jmh-demo</p>
+
 <!-- refs -->
 [jmh]: http://openjdk.java.net/projects/code-tools/jmh/
 [gradle]: https://gradle.org/
