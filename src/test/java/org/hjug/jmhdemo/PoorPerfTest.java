@@ -1,4 +1,4 @@
-/**
+/*
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this
  * file, You can obtain one at http://mozilla.org/MPL/2.0/.
@@ -140,6 +140,6 @@ public class PoorPerfTest {
             iterationsPerRun,
             averageIterNs / 15
         );
-        // 4,173,984 nanoseconds for 100,000 runs of 3 iterations of 15 ops/ea =  0.9 ns per computation
+        // 47,096,670 nanoseconds for 1,000,000 runs of 1,000 iterations of 15 ops/ea =  0.003 ns per computation
     }
 }
